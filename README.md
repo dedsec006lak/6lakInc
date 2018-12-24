@@ -1,2 +1,0 @@
-# 6lakInc
-first proj.
